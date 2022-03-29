@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-#### **Vishnu Sivan**, Immersive Tech Lead, TCS Rapid Labs, Game Developer, Mobile App Developer, Full Stack Developer, Web Developer
+#### **Vishnu Sivan**, Immersive Tech Lead, Game Developer, Mobile App Developer, Full Stack Developer, Web Developer
 
 👨🏼‍💻  Seasoned professional, forward looking software engineer with 3+ years of experience in creating and executing innovative solutions in immersive field to enhance business productivity. Highly experienced in AR, VR, gesture related technologies. Completed 5+ client projects and worked on 20+ POCs in immersive technologies. Consistently recognized for the contributions in immersive sector and web / mobile app developments.Skilled at coordinating cross functional teams in a fast paced deadline driven environment.
 
