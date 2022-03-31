@@ -1,4 +1,6 @@
-<img src="codemaker.png" alt="Vishnu Sivan" />
+# Hey, I'm Vishnu Sivan 👋
+
+<img src="codemaker.png" alt="Vishnu Sivan" width="100%" />
 
 <p align="left">
   <a href="https://github.com/codemaker2015/codemaker2015">
@@ -28,12 +30,6 @@
   <a href="https://www.facebook.com/vishnu.sivan.754">
     <img alt="Facebook friends" src="https://img.shields.io/badge/friends-1.9K-blue?color=yellowgreen&logo=facebook">
   </a>
-</p>
-
-# Hey, I'm 
-
-<p align="center">
-  <img src="codemaker.gif" height="175px" /> 
 </p>
 
 ## 🚀 About Me
