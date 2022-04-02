@@ -30,7 +30,7 @@
   </a> -->
 </p>
 
-# <img src="images/rabbit.gif" height="30" /> Hey, I'm Vishnu Sivan <img src="images/hands.gif" height="30" />
+# Hey, I'm Vishnu Sivan <img src="images/hands.gif" height="30" />
 
 ### Immersive Tech Lead, Game Developer, Mobile App Developer, Full Stack Developer, Web Developer
 
