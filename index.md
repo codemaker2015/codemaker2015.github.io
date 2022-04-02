@@ -1,5 +1,3 @@
-# <img src="images/rabbit.gif" height="30" /> Hey, I'm Vishnu Sivan <img src="images/hands.gif" height="30" />
-
 <img src="codemaker.png" alt="Vishnu Sivan" width="100%" />
 
 <p align="left">
@@ -32,9 +30,9 @@
   </a> -->
 </p>
 
-## 🚀 About Me
+# <img src="images/rabbit.gif" height="30" /> Hey, I'm Vishnu Sivan <img src="images/hands.gif" height="30" />
 
-#### **Vishnu Sivan**, Immersive Tech Lead, Game Developer, Mobile App Developer, Full Stack Developer, Web Developer
+### Immersive Tech Lead, Game Developer, Mobile App Developer, Full Stack Developer, Web Developer
 
 <img src="images/light_1.gif" height="20px" />  Seasoned professional, forward looking software engineer with 3+ years of experience in creating and executing innovative solutions in immersive field to enhance business productivity. Highly experienced in AR, VR, gesture related technologies. Completed 5+ client projects and worked on 20+ POCs in immersive technologies. Consistently recognized for the contributions in immersive sector and web / mobile app developments. Skilled at coordinating cross functional teams in a fast paced deadline driven environment.
 
