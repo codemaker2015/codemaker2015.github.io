@@ -51,6 +51,7 @@
 
 ## 🏅 Achievements
 
+-    🏆 
 -    👨‍💻 Completed **5+ client projects** and **25+ POCs** in _TCS_
 -    🥇 **Ranked #1** in **Python** on _HackerRank_
 -    🥇 **Ranked #1** in **Java** on _HackerRank_
@@ -65,7 +66,13 @@ learning platforms like _LinkedIn, Udemy, Coursera_
 
 ## 🏆 Awards
 
+-    🌼 **Innovation Pride Award** (04/2022 - Present)
+_Tata Consultancy Services_
+-    🍁 **IP Creation Award** (03/2022 - Present)
+_Tata Consultancy Services_
 -    🌷 **Service & Commitment Award** (02/2022 - Present)
+_Tata Consultancy Services_
+-    🍀 **Learning Achievement Award** (01/2022 - Present)
 _Tata Consultancy Services_
 -    🌸 **On the spot award** (10/2021 - Present)
 _Tata Consultancy Services_
