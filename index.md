@@ -20,7 +20,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/codemaker2015?color=yellow&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/codemaker2015">
-    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.9K-blue?color=blue&logo=linkedin">
+    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-2.3K-blue?color=blue&logo=linkedin">
   </a>
   <a href="https://twitter.com/codemaker2014">
     <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter">
@@ -55,10 +55,10 @@
 -    👨‍💻 Completed **5+ client projects** and **25+ POCs** in _TCS_
 -    🥇 **Ranked #1** in **Python** on _HackerRank_
 -    🥇 **Ranked #1** in **Java** on _HackerRank_
--    📜 **300+ certification and course completion** from various 
+-    📜 **350+ certification and course completion** from various 
 learning platforms like _LinkedIn, Udemy, Coursera_
--    👩🏼‍💻 **250+ project repos** in _Github_
--    ✨ **7000+ reputation** in _Stackoverflow_
+-    👩🏼‍💻 **350+ project repos** in _Github_
+-    ✨ **8900+ reputation** in _Stackoverflow_
 -    💎 **10+ badges and verified skills** in _Hackerrank_
 -    📝 **40+ articles** in _Medium_
 -    🎉 Completed all **coding challenges** in _Codingbat_
