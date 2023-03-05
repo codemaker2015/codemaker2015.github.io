@@ -26,8 +26,8 @@
     <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter">
   </a>
   <a href="https://www.facebook.com/vishnu.sivan.754">
-    <img alt="Facebook friends" src="https://img.shields.io/badge/friends-1.9K-blue?color=yellowgreen&logo=facebook"> -->
-  </a>
+    <img alt="Facebook friends" src="https://img.shields.io/badge/friends-1.9K-blue?color=yellowgreen&logo=facebook"> 
+  </a>-->
 </p>
 
 # Hey, I'm Vishnu Sivan <img src="images/hands.gif" height="30" />
