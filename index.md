@@ -20,21 +20,21 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/codemaker2015?color=yellow&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/codemaker2015">
-    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-2.3K-blue?color=blue&logo=linkedin">
+    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-2K-blue?color=blue&logo=linkedin">
   </a>
-  <a href="https://twitter.com/codemaker2014">
+  <!-- <a href="https://twitter.com/codemaker2014">
     <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter">
   </a>
-  <!-- <a href="https://www.facebook.com/vishnu.sivan.754">
-    <img alt="Facebook friends" src="https://img.shields.io/badge/friends-1.9K-blue?color=yellowgreen&logo=facebook">
-  </a> -->
+  <a href="https://www.facebook.com/vishnu.sivan.754">
+    <img alt="Facebook friends" src="https://img.shields.io/badge/friends-1.9K-blue?color=yellowgreen&logo=facebook"> -->
+  </a>
 </p>
 
 # Hey, I'm Vishnu Sivan <img src="images/hands.gif" height="30" />
 
 ### Immersive Tech Lead, Game Developer, Mobile App Developer, Full Stack Developer, Web Developer
 
-<img src="images/light_1.gif" height="20px" />  Seasoned professional, forward looking software engineer with 3+ years of experience in creating and executing innovative solutions in immersive field to enhance business productivity. Highly experienced in AR, VR, gesture related technologies. Completed 5+ client projects and worked on 20+ POCs in immersive technologies. Consistently recognized for the contributions in immersive sector and web / mobile app developments. Skilled at coordinating cross functional teams in a fast paced deadline driven environment.
+<img src="images/light_1.gif" height="20px" />  Seasoned professional, forward looking software engineer with 4+ years of experience in creating and executing innovative solutions in immersive field to enhance business productivity. Highly experienced in AR, VR, gesture related technologies. Completed 5+ client projects and worked on 20+ POCs in immersive technologies. Consistently recognized for the contributions in immersive sector and web / mobile app developments. Skilled at coordinating cross functional teams in a fast paced deadline driven environment.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ## <img src="images/light_5.gif" height="30px" /> My Stats
@@ -51,28 +51,21 @@
 
 ## 🏅 Achievements
 
--    🏆 
 -    👨‍💻 Completed **5+ client projects** and **25+ POCs** in _TCS_
 -    🥇 **Ranked #1** in **Python** on _HackerRank_
 -    🥇 **Ranked #1** in **Java** on _HackerRank_
--    📜 **350+ certification and course completion** from various 
+-    📜 **400+ certification and course completion** from various 
 learning platforms like _LinkedIn, Udemy, Coursera_
--    👩🏼‍💻 **350+ project repos** in _Github_
--    ✨ **8900+ reputation** in _Stackoverflow_
--    💎 **10+ badges and verified skills** in _Hackerrank_
--    📝 **40+ articles** in _Medium_
+-    👩🏼‍💻 **400+ project repos** in _Github_
+-    ✨ **10K reputation** in _Stackoverflow_
+-    💎 **15+ badges and verified skills** in _Hackerrank_
+-    📝 **40+ articles** in _Medium_ and _Dev_
 -    🎉 Completed all **coding challenges** in _Codingbat_
 -    🥉 **2nd Runner up** in a Coding Competition conducted by _TCS TI Trivandrum_
 
 ## 🏆 Awards
 
--    🌼 **Innovation Pride Award** (04/2022 - Present)
-_Tata Consultancy Services_
--    🍁 **IP Creation Award** (03/2022 - Present)
-_Tata Consultancy Services_
 -    🌷 **Service & Commitment Award** (02/2022 - Present)
-_Tata Consultancy Services_
--    🍀 **Learning Achievement Award** (01/2022 - Present)
 _Tata Consultancy Services_
 -    🌸 **On the spot award** (10/2021 - Present)
 _Tata Consultancy Services_
@@ -94,8 +87,8 @@ _KETCON 2017 (01/2017)_
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-317823?style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-114836?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-317823?style=for-the-badge&logo=C%20&logoColor=white)
+![C++](https://img.shields.io/badge/C++-114836?style=for-the-badge&logo=c++&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-035375?style=for-the-badge&logo=C%20sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-5BA8C9?style=for-the-badge&logo=java&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -110,6 +103,7 @@ _KETCON 2017 (01/2017)_
 ### Game Development
 
 ![unity3d](https://img.shields.io/badge/unity3d-20232A?style=for-the-badge&logo=unity&logoColor=61DAFB)
+![unreal](https://img.shields.io/badge/unreal-20112A?style=for-the-badge&logo=unreal-engine&logoColor=61DAFB)
 ![oculus](https://img.shields.io/badge/Oculus-272080?style=for-the-badge&logo=oculus&logoColor=61DAFB)
 ![phaser](https://img.shields.io/badge/Phaser-0C490B?style=for-the-badge&logo=phaser.js&logoColor=61DAFB)
 ![web xr](https://img.shields.io/badge/WebXR-610033?style=for-the-badge&logo=webxr&logoColor=white)
@@ -156,6 +150,7 @@ _KETCON 2017 (01/2017)_
 ![mysql](https://img.shields.io/badge/MySQL-cc6600?style=for-the-badge&logo=mysql&logoColor=white)
 ![oracle](https://img.shields.io/badge/Oracle-990000?style=for-the-badge&logo=oracle&logoColor=white)
 ![mssql](https://img.shields.io/badge/MS_SQL-999966?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![neo4j](https://img.shields.io/badge/Neo4j-1BACEE?style=for-the-badge&logo=neo4j&logoColor=white)
 ![hive](https://img.shields.io/badge/Hive-cc9900?style=for-the-badge&logo=hive&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-0099ff?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -166,7 +161,6 @@ _KETCON 2017 (01/2017)_
 ![gcp](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=whit)
 ![docker](https://img.shields.io/badge/Docker-006699?style=for-the-badge&logo=docker&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/Kubernetes-0066cc?style=for-the-badge&logo=kubernetes&logoColor=white)
-![docker](https://img.shields.io/badge/Docker-006699?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Backend as a Service (BaaS)
 
@@ -178,7 +172,7 @@ _KETCON 2017 (01/2017)_
 ![adobe-xd](https://img.shields.io/badge/adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![blender](https://img.shields.io/badge/Blender-ff9900?style=for-the-badge&logo=blender&logoColor=white)
-![photoshop](https://img.shields.io/badge/Photoshop-3366cc?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![photoshop](https://img.shields.io/badge/Photoshop-3366cc?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  
 
 ### Testing
 
@@ -193,9 +187,12 @@ _KETCON 2017 (01/2017)_
 
 ## 📝 Top Blog Posts
 
+-   [React Native cheatsheet for beginners](https://dev.to/codemaker2015/react-native-cheatsheet-for-beginners-28oa)
+-   [Create your chatbot using Rasa and deploy it on AWS](https://medium.com/coinmonks/create-your-chatbot-using-rasa-and-deploy-it-on-aws-e59b4f296605)
 -   [Introduction to Metaverse](https://medium.com/@codemaker2016/introduction-to-metaverse-e48a29fc906f)
 -   [Unity3D Fundamentals](https://medium.com/@codemaker2016/unity3d-fundamentals-384aaa67fea5)
 -   [How to run python code in your browser](https://medium.com/@codemaker2016/how-to-run-python-code-in-your-browser-69b4044b803a)
+    [QR code scanner app using React native](https://dev.to/codemaker2015/qr-code-scanner-app-using-react-native-eog)
 -   [Develop your first Dapp with Web3.js](https://coinsbench.com/develop-your-first-dapp-with-web3-js-c038bc10710b)
 -   [Create and deploy your first smart contract with Solidity](https://coinsbench.com/create-and-deploy-your-first-smart-contract-with-solidity-92c39987655e)
 -   [Unity 3D C# scripting cheatsheet for beginners](https://blog.devgenius.io/unity-3d-c-scripting-cheatsheet-for-beginners-be6030b5a9ed)
@@ -204,7 +201,7 @@ _KETCON 2017 (01/2017)_
 -   [Develop your HelloAR app in Android studio using ARCore and Sceneform](https://blog.devgenius.io/develop-your-helloar-app-in-android-studio-using-arcore-and-sceneform-ae9e1b7a1b5b)
 -   [Tips and tricks to create an awesome GitHub profile README](https://medium.com/@codemaker2016/tips-and-tricks-to-create-an-awesome-github-profile-readme-ce3825a355c7)
 
-Want to read more? [Check out all the blogs](https://medium.com/@codemaker2016)
+Want to read more? [Check out all the blogs](https://codemaker2016.medium.com)
 
 ## 🔗 Links
 
@@ -212,6 +209,6 @@ Want to read more? [Check out all the blogs](https://medium.com/@codemaker2016)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1zQKbMCvlsIeV4Ew5FiCNWKDzNfrLAecS/view?usp=sharing)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/codemaker2015/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/codemaker2015)
-[![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://codemaker2015.medium.com/)
+[![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@codemaker2016)
 [![dev](https://img.shields.io/badge/dev-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/codemaker2015)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mail.vishnu.sivan@gmail.com)
