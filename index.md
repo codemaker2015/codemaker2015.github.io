@@ -1,11 +1,8 @@
-<img src="codemaker.png" alt="Vishnu Sivan" width="100%" />
+<img src="codemaker.png" alt="Vishnu Sivan" />
 
 <p align="left">
   <a href="https://github.com/codemaker2015/codemaker2015">
     <img src="https://komarev.com/ghpvc/?username=codemaker2015&color=red" alt="profile views" />
-  </a>
-  <a href="https://github.com/codemaker2015/codemaker2015">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="page views" />
   </a>
   <a href="https://stackoverflow.com/users/7103882">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/7103882?color=orange&label=reputation&logo=stackoverflow">
@@ -14,54 +11,57 @@
     <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-15+-green?color=green&logo=hackerrank">
   </a>
   <a href="https://codemaker2015.medium.com">
-    <img alt="Medium" src="https://img.shields.io/badge/medium-40+-lightgrey?color=lightgrey&logo=medium">
+    <img alt="Medium" src="https://img.shields.io/badge/medium-50+-lightgrey?color=lightgrey&logo=medium">
   </a>
   <a href="https://github.com/codemaker2015?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/codemaker2015?color=yellow&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/codemaker2015">
-    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-2K-blue?color=blue&logo=linkedin">
+    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-2.5K-blue?color=blue&logo=linkedin">
   </a>
-  <!-- <a href="https://twitter.com/codemaker2014">
-    <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter">
+  <a href="https://instagram.com/codemaker2015">
+    <img alt="Instagram followers" src="https://img.shields.io/badge/followers-100-blue?color=orange&logo=instagram">
   </a>
-  <a href="https://www.facebook.com/vishnu.sivan.754">
-    <img alt="Facebook friends" src="https://img.shields.io/badge/friends-1.9K-blue?color=yellowgreen&logo=facebook"> 
-  </a>-->
 </p>
 
-# Hey, I'm Vishnu Sivan <img src="images/hands.gif" height="30" />
+# <img src="images/rabbit.gif" height="30" /> Hey, I'm Vishnu Sivan <img src="images/hands.gif" height="30" />
 
-### Immersive Tech Lead, Game Developer, Mobile App Developer, Full Stack Developer, Web Developer
+## 🚀 About Me
 
-<img src="images/light_1.gif" height="20px" />  Seasoned professional, forward looking software engineer with 4+ years of experience in creating and executing innovative solutions in immersive field to enhance business productivity. Highly experienced in AR, VR, gesture related technologies. Completed 5+ client projects and worked on 20+ POCs in immersive technologies. Consistently recognized for the contributions in immersive sector and web / mobile app developments. Skilled at coordinating cross functional teams in a fast paced deadline driven environment.
+#### **Vishnu Sivan**, Immersive Tech Lead, Game Developer, Mobile App Developer, Full Stack Developer, Web Developer
+
+<img src="images/light_1.gif" height="20px" />  Seasoned professional, forward looking software engineer with 5+ years of experience in creating and executing innovative solutions in immersive field to enhance business productivity. Highly experienced in AR, VR, gesture related technologies. Completed 10+ client projects and worked on 50+ POCs in various technologies. Consistently recognized for the contributions in immersive sector and web / mobile app developments. Skilled at coordinating cross functional teams in a fast paced deadline driven environment.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-## <img src="images/light_5.gif" height="30px" /> My Stats
+
+## <img src="images/light_5.gif" height="30px" /> My Stats <img src="images/loading.gif" height="20px" />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codemaker2015&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codemaker2015&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=codemaker2015&theme=discord)
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=codemaker2015&theme=xcode)
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codemaker2015&bg_color=000000&color=ffffff&line=2574b1&point=e58a8a&area=true&hide_border=true)
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemaker2015&layout=compact&theme=blue-green)
 ![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codemaker2015&layout=compact&theme=blue-green)
 
 ## 🏅 Achievements
 
--    👨‍💻 Completed **5+ client projects** and **25+ POCs** in _TCS_
+-    👨‍💻 Completed **10+ client projects** and **50+ POCs** in _TCS_
 -    🥇 **Ranked #1** in **Python** on _HackerRank_
 -    🥇 **Ranked #1** in **Java** on _HackerRank_
--    📜 **400+ certification and course completion** from various 
+-    📜 **500+ certification and course completion** from various 
 learning platforms like _LinkedIn, Udemy, Coursera_
--    👩🏼‍💻 **400+ project repos** in _Github_
+-    👩🏼‍💻 **500+ project repos** in _Github_
 -    ✨ **10K reputation** in _Stackoverflow_
+-    💎 **15+ badges** in _LeetCode_
+-    🐐 Completed **100+ days challenges** in _LeetCode_
 -    💎 **15+ badges and verified skills** in _Hackerrank_
--    📝 **40+ articles** in _Medium_ and _Dev_
--    🎉 Completed all **coding challenges** in _Codingbat_
+-    📝 **50+ articles** in _Medium_ and _Dev_
+-    🐐 Completed all **coding challenges** in _Codingbat_
 -    🥉 **2nd Runner up** in a Coding Competition conducted by _TCS TI Trivandrum_
+-    🥉 **Won Silver badge** on Tata ideas for automated counterfeit detection for tata consumer products. 
 
 ## 🏆 Awards
 
@@ -78,10 +78,34 @@ _Baselius Poulose II Catholicose College Piravom_
 
 ## 📕 Publications
 
--    📜 **Patent** - **Method and system for assessing and improving 
+-    📜 **Patent - Method and system for assessing and improving 
 wellness of person using body gestures** (08/2021 - Present).
 -    📰 **Journal publication - Living smart at smart home**
 _KETCON 2017 (01/2017)_
+-    🧩 Applications - [**VPicker**](https://play.google.com/store/apps/details?id=com.vsoft.apps.vpicker),  [**Jumber**](https://play.google.com/store/apps/details?id=com.VSoft.Jumper) and ![**Jumbo**](https://play.google.com/store/apps/details?id=com.vsoft.jumbo) on Play Store
+  -    📦 **Packages** - [**csv toolkit**](https://assetstore.unity.com/packages/slug/274646) and [**Swipe Input**](https://assetstore.unity.com/packages/tools/input-management/swipe-input-275012)    
+
+
+## 📝 Top Blog Posts
+-   [Exploring Gemma: Google open-source AI model](https://medium.com/pythoneers/exploring-gemma-google-open-source-ai-model-812e71b539c0)
+-   [Build your own ChatGPT using Google Gemini API](https://codemaker2016.medium.com/build-your-own-chatgpt-using-google-gemini-api-1b079f6a8415)
+-   [Chat with your databases using LangChain](https://coinsbench.com/chat-with-your-databases-using-langchain-bb7d31ed2e76)
+-   [React Native cheatsheet for beginners](https://dev.to/codemaker2015/react-native-cheatsheet-for-beginners-28oa)
+-   [Create your chatbot using Rasa and deploy it on AWS](https://medium.com/coinmonks/create-your-chatbot-using-rasa-and-deploy-it-on-aws-e59b4f296605)
+-   [Introduction to Metaverse](https://medium.com/@codemaker2016/introduction-to-metaverse-e48a29fc906f)
+-   [Unity3D Fundamentals](https://medium.com/@codemaker2016/unity3d-fundamentals-384aaa67fea5)
+-   [How to run python code in your browser](https://medium.com/@codemaker2016/how-to-run-python-code-in-your-browser-69b4044b803a)
+    [QR code scanner app using React native](https://dev.to/codemaker2015/qr-code-scanner-app-using-react-native-eog)
+-   [Develop your first Dapp with Web3.js](https://coinsbench.com/develop-your-first-dapp-with-web3-js-c038bc10710b)
+-   [Create and deploy your first smart contract with Solidity](https://coinsbench.com/create-and-deploy-your-first-smart-contract-with-solidity-92c39987655e)
+-   [Unity 3D C# scripting cheatsheet for beginners](https://blog.devgenius.io/unity-3d-c-scripting-cheatsheet-for-beginners-be6030b5a9ed)
+-   [Python cheatsheet for beginners](https://medium.com/@codemaker2016/python-cheatsheet-for-beginners-41736296c636)
+-   [13 ways to secure your react.js application](https://blog.devgenius.io/13-ways-to-secure-your-react-js-application-d48da9eacd45)
+-   [Develop your HelloAR app in Android studio using ARCore and Sceneform](https://blog.devgenius.io/develop-your-helloar-app-in-android-studio-using-arcore-and-sceneform-ae9e1b7a1b5b)
+-   [Tips and tricks to create an awesome GitHub profile README](https://medium.com/@codemaker2016/tips-and-tricks-to-create-an-awesome-github-profile-readme-ce3825a355c7)
+
+Want to read more? [Check out all the blogs](https://medium.com/@codemaker2016)
+
 
 ## 🛠️ Skills
 
@@ -185,28 +209,10 @@ _KETCON 2017 (01/2017)_
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
-## 📝 Top Blog Posts
-
--   [React Native cheatsheet for beginners](https://dev.to/codemaker2015/react-native-cheatsheet-for-beginners-28oa)
--   [Create your chatbot using Rasa and deploy it on AWS](https://medium.com/coinmonks/create-your-chatbot-using-rasa-and-deploy-it-on-aws-e59b4f296605)
--   [Introduction to Metaverse](https://medium.com/@codemaker2016/introduction-to-metaverse-e48a29fc906f)
--   [Unity3D Fundamentals](https://medium.com/@codemaker2016/unity3d-fundamentals-384aaa67fea5)
--   [How to run python code in your browser](https://medium.com/@codemaker2016/how-to-run-python-code-in-your-browser-69b4044b803a)
-    [QR code scanner app using React native](https://dev.to/codemaker2015/qr-code-scanner-app-using-react-native-eog)
--   [Develop your first Dapp with Web3.js](https://coinsbench.com/develop-your-first-dapp-with-web3-js-c038bc10710b)
--   [Create and deploy your first smart contract with Solidity](https://coinsbench.com/create-and-deploy-your-first-smart-contract-with-solidity-92c39987655e)
--   [Unity 3D C# scripting cheatsheet for beginners](https://blog.devgenius.io/unity-3d-c-scripting-cheatsheet-for-beginners-be6030b5a9ed)
--   [Python cheatsheet for beginners](https://medium.com/@codemaker2016/python-cheatsheet-for-beginners-41736296c636)
--   [13 ways to secure your react.js application](https://blog.devgenius.io/13-ways-to-secure-your-react-js-application-d48da9eacd45)
--   [Develop your HelloAR app in Android studio using ARCore and Sceneform](https://blog.devgenius.io/develop-your-helloar-app-in-android-studio-using-arcore-and-sceneform-ae9e1b7a1b5b)
--   [Tips and tricks to create an awesome GitHub profile README](https://medium.com/@codemaker2016/tips-and-tricks-to-create-an-awesome-github-profile-readme-ce3825a355c7)
-
-Want to read more? [Check out all the blogs](https://codemaker2016.medium.com)
 
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://linktr.ee/codemaker)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1zQKbMCvlsIeV4Ew5FiCNWKDzNfrLAecS/view?usp=sharing)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/codemaker2015/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/codemaker2015)
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@codemaker2016)
