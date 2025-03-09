@@ -95,7 +95,7 @@ _Baselius Poulose II Catholicose College Piravom_
 wellness of person using body gestures** (08/2021 - Present)
 -    📰 **Journal publication - Living smart at smart home**
 _KETCON 2017 (01/2017)_
--    🧩 Applications - [**VPicker**](https://play.google.com/store/apps/details?id=com.vsoft.apps.vpicker),  [**Jumber**](https://play.google.com/store/apps/details?id=com.VSoft.Jumper) and ![**Jumbo**](https://play.google.com/store/apps/details?id=com.vsoft.jumbo) on Play Store
+-    🧩 Applications - [**VPicker**](https://play.google.com/store/apps/details?id=com.vsoft.apps.vpicker),  [**Jumber**](https://play.google.com/store/apps/details?id=com.VSoft.Jumper) and [**Jumbo**](https://play.google.com/store/apps/details?id=com.vsoft.jumbo) on Play Store
 -    📦 **Packages** - [**csv toolkit**](https://assetstore.unity.com/packages/slug/274646) , [**Swipe Input**](https://assetstore.unity.com/packages/tools/input-management/swipe-input-275012) and [**Energy Tracker**](https://pypi.org/project/energy-tracker)
 
 ## 📝 Top Blog Posts
